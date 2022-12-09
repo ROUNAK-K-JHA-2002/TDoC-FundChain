@@ -1,3 +1,22 @@
-# TDoC-FundChain
+<h1 align='center'> Fundchain </h1>
 
-FundChain is a charity platform to help those in severe financial need, entirely built on the Ethereum blockchain to provide security as well as make the entire process more decentralized and transparent 
+----
+
+## About the project
+
+
+This application is supported using Solidity Smart Contracts and the frontend is built using React JS, the blockchain is deployed to the local Ethereum network Ganache. The whole project runs on an Ethereum supported browser, with the help of the Metamask extension.
+
+### Tech Stacks used :
+
+Solidity, React JS, CSS
+
+### Additional Technologies :
+
+Truffle, Ganache, Web3, Metamask
+
+
+
+### Aim :
+
+To create a simple DApp, which in this project is a decentralized charity platform.
